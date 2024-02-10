@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "98c031d8d37c0dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce6a1f668d459290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a710a96b0eaa76a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Motor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "611721d750436695",
+    "type": "split",
+    "children": [
+      {
+        "id": "8124abf6d9644da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b517bd545a57ff4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb8ff92ee3ad3053",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11031b7777f6d063",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d0378e1bf8e4fe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec53e353243ccae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "397fe503145f9052",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Electronics/Motor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcdb4cd75d200e17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Electronics/Motor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02754acf3afdb067",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7962c162c2a4811",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electronics/Motor.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a710a96b0eaa76a",
+  "lastOpenFiles": [
+    "Electronics/HDC2460.md",
+    "Electronics/Motor.md",
+    "Electronics/Encoder.md",
+    "Electronics/Diodes.md",
+    "ROS/Control/ROS2_Control.md"
+  ]
+}
