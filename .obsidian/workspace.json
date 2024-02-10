@@ -147,10 +147,15 @@
   },
   "active": "8a710a96b0eaa76a",
   "lastOpenFiles": [
-    "Electronics/Encoder.md",
-    "ROS/Control/ROS2_Control.md",
+    "Electronics/External/hdc24xx_datasheet.pdf",
+    "Electronics/External",
+    "Electronics/New folder",
+    "New folder",
     "Electronics/Motor.md",
+    "Relays.md",
     "Electronics/HDC2460.md",
-    "Electronics/Diodes.md"
+    "Electronics/Encoder.md",
+    "Electronics/Diodes.md",
+    "ROS/Control/ROS2_Control.md"
   ]
 }
